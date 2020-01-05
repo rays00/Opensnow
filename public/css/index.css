@@ -1,0 +1,24 @@
+.modal-body {
+	display: grid;
+}
+
+#current-info {
+	display: grid;
+}
+
+.modal-info-heading {
+	font-weight: 700;
+}
+
+.modal-info-text {
+	font-weight: 300;
+    font-size: 25px;
+}
+
+.mt-5 {
+	color: rebeccapurple;
+}
+
+nav {
+	background-color: #f8f9fa;
+}
